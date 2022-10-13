@@ -1,0 +1,122 @@
+[
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 60,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 1,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 1,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 3,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 120,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 2,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 3,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 180,
+      "muscle_activity_glutes": 2,
+      "muscle_activity_quads": 2,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 240,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 3,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    },  
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 300,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 3,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 3,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 360,
+      "muscle_activity_glutes": 3,
+      "muscle_activity_quads": 2,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 3,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 420,
+      "muscle_activity_glutes": 2,
+      "muscle_activity_quads": 3,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 480,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 2,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 540,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 2,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 2,
+      "spine_flag": 1,
+      "knee_flag": 3,
+      "foot_placement": 1,
+      "training_mode": 1
+    },
+    {
+      "primary_muscle": "Glutes",
+      "timestamp": 600,
+      "muscle_activity_glutes": 1,
+      "muscle_activity_quads": 1,
+      "muscle_activity_hamstrings": 1,
+      "muscle_activity_abductors": 1,
+      "spine_flag": 1,
+      "knee_flag": 2,
+      "foot_placement": 1,
+      "training_mode": 1
+    }
+  ]
